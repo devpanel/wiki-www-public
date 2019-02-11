@@ -12,7 +12,7 @@ Well, you should branch wp, create a new dev/test site, go into wp, update via w
 
 Does devPanel say "Invalid ssh-key" ?
 
-Does your key look like this?
+Does your key look like this???
 
 ````
 -- BEGIN SSH2 PUBLIC KEY --
