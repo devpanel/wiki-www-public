@@ -1,6 +1,6 @@
 ---
 herotitle: Pricing
-herosubtitle: '"There are two kinds of companies — those that work to raise prices and those that work to lower them.” - Jeff Bezos"'
+herosubtitle: '"There are two kinds of companies — those that work to raise prices and those that work to lower them.” - Jeff Bezos'
 pricing:
     -
         title: 'Agency Plan'
